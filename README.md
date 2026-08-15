@@ -32,5 +32,5 @@ If you are developing a production application, we recommend enabling type-aware
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
 =======
-# AI-Assisted-Threat-Detection-Dashboard
+# Creation of Security Operations Dashboard for Threat Detection with Risk Mitigation Analytics
 >>>>>>> 15b180ebffa77de4cff0b1208fb0d9ad82cdd9d7
