@@ -48,6 +48,8 @@ API keys are stored in environment variables rather than directly inside the sou
 Example:
 VITE_GROQ_API_KEY=your_api_key
 The .env file should remain in .gitignore and should never be uploaded to GitHub.
+
+
 <<<<<<< HEAD
 # React + TypeScript + Vite
 
